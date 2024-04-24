@@ -1,0 +1,1 @@
+This project marks my first steps into the field of data analysis. Through an interactive dashboard, it provides a detailed overview of performance metrics and sales for a store in the United States. Explore this meticulous analysis to uncover valuable insights that can inform strategic decisions and future actions.
