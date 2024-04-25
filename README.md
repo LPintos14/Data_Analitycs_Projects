@@ -17,7 +17,7 @@ Each project folder contains two essential files:
 1. **HTML Preview**: Inside each project folder, you'll find a file named after the project's repository. This file serves as a direct link to the project's repository, where you can view the analysis in HTML format along with the accompanying data files.
    - Example: [View Project Repository](https://github.com/LPintos14/Data_Analitycs_Projects)
 
-2. **Direct Link**: Additionally, you'll find a file named `direct_link.txt`. This file contains a direct link that you can simply click to access the project instantly.
+2. **Direct Link**: Additionally, you'll find a file named `direct_link.md`. This file contains a direct link that you can simply click to access the project instantly.
 
 
 
