@@ -1,6 +1,6 @@
 # Data Analysis Projects Repository 📊
 
-Welcome to my data analysis projects repository! 🚀
+### Welcome to my data analysis projects repository! 🚀
 
 In this repository, you will find a constantly growing collection of my projects related to data analysis and visualization. From exploratory analysis to creating impactful visualizations, this folder reflects my passion for extracting valuable insights from data. 🌟
 
