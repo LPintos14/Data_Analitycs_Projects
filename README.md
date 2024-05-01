@@ -12,13 +12,13 @@ The main purpose of this repository is to serve as a record of my work in data a
 
 The projects presented here cover various areas of data analysis, including data cleaning, exploratory data analysis, and statistical analysis. Each project is carefully documented and accompanied by clear and concise visualizations.
 
-Each project folder contains two essential files:
+Each project folder contains essential files:
 
-1. **HTML Preview**: Inside each project folder, you'll find a file named after the project's repository. This file serves as a direct link to the project's repository, where you can view the analysis in HTML format along with the accompanying data files.
-   - Example: [View Project Repository](https://github.com/LPintos14/Data_Analitycs_Projects)
+1. **Project Presentation**: Within each project folder, you will find a file named Presentation.ProjectName.md. This file will contain a brief and concise description of the project.
 
-2. **Direct Link**: Additionally, you'll find a file named `direct_link.md`. This file contains a direct link that you can simply click to access the project instantly.
+2. **Visualization Link**:  Additionally, you will find a file named Visualization.ProjectName.md. This file contains a direct link that you can simply click on to instantly access the project visualization.
 
+3. **Data Set: Finally**, the containing folder will include the datasets used during the project, which can be visualized if desired. They will be available in both .xlxs and .csv formats.
 
 
 ## Contributions 💡
@@ -43,12 +43,13 @@ El propósito principal de este repositorio es servir como registro de mi trabaj
 
 Los proyectos presentados aquí abarcan diversas áreas del análisis de datos, incluida la limpieza de datos, el análisis exploratorio de datos y el análisis estadístico. Cada proyecto está cuidadosamente documentado y acompañado de visualizaciones claras y concisas.
 
-Cada carpeta de proyecto contiene dos archivos esenciales:
+Cada carpeta de proyecto contiene archivos esenciales:
 
-1. **Vista Previa HTML**: Dentro de cada carpeta de proyecto, encontrarás un archivo nombrado según el repositorio del proyecto. Este archivo sirve como un enlace directo al repositorio del proyecto, donde puedes ver el análisis en formato HTML junto con los archivos de datos correspondientes.
-    - Ejemplo: [View Project Repository](https://github.com/LPintos14/Data_Analitycs_Projects)
+1. **Presentación del proyecto**: Dentro de cada carpeta de proyecto, encontrarás un archivo nombrado como Presentation.NombreDelProyecto.md. Este archivo contendra una breve y concisa descripcion del proyecto. 
 
-2. **Enlace Directo**: Además, encontrarás un archivo llamado direct_link.md. Este archivo contiene un enlace directo al que simplemente puedes hacer clic para acceder instantáneamente al proyecto.
+2. **Enlace de Visualización**: Además, encontrarás un archivo llamado Visuaalization.NombreDelProyecto.md. Este archivo contiene un enlace directo al que simplemente puedes hacer clic para acceder instantáneamente a la visualización del proyecto.
+
+3. **Data Set**: Para culminar, la carpeta contenedora contara con los datasets utilizados durante el proyecto para que puedan ser visualizados si así se desea. Estaran tanto en formato .xlxs como en formato .csv
 
 ## Contribuciones 💡
 
