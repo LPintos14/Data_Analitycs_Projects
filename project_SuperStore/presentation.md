@@ -1,8 +1,6 @@
-
-
-Welcome 🚀
-
-English Version 🌟
+# Welcome 🚀
+---
+### English Version 🌟
 
 In this inaugural project, I've curated an executive overview of the store's sales performance, meticulously examining various perspectives, including the segmentation and categorization of our product offerings.
 
@@ -10,9 +8,9 @@ In this inaugural project, I've curated an executive overview of the store's sal
 
 🎨 The vivid depiction of these sales, articulated through a gradient color scheme, offers a comprehensive visual representation of our operational efficacy and market penetrability.
 
-Bienvenidos 🚀
-
-Versión en Español 🌟
+# Bienvenidos 🚀
+---
+### Versión en Español 🌟
 
 En este proyecto inaugural, he elaborado un resumen ejecutivo del rendimiento de ventas de la tienda, examinando meticulosamente diversas perspectivas, incluida la segmentación y categorización de nuestras ofertas de productos.
 
