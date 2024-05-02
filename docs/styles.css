@@ -88,10 +88,3 @@ main {
     text-decoration: underline;
     color: #28a745; 
 }
-
-.github-icon img {
-    width: 1.5em;
-    height: 1.5em;
-    vertical-align:text-bottom ;
-    margin-left: 8px;
-}
