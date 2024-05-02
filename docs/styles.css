@@ -1,0 +1,97 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #e9ecef; 
+    color: #495057; 
+    line-height: 1.6;
+    padding: 20px;
+}
+
+header {
+    background-color: #212529; 
+    color: #dee2e6; 
+    padding: 10px 20px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+h1 {
+    margin-bottom: 20px;
+    font-size: 28px;
+    color: #dee2e6; 
+}
+
+main {
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: #fff; 
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
+
+.project-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    grid-gap: 20px;
+}
+
+.project {
+    background-color: #fff;
+    border: 1px solid #dee2e6;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
+
+.project h2 {
+    color: #0471df;
+}
+
+.project p {
+    margin-bottom: 15px;
+}
+
+.button {
+    display: inline-block;
+    background-color: #28a745;
+    color: white;
+    padding: 10px 15px;
+    text-decoration: none;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.button:hover {
+    background-color: #218838;
+}
+
+.additional-links {
+    margin-top: 10px;
+    border-top: 1px solid #dee2e6;
+    padding-top: 10px;
+}
+
+.link {
+    display: block;
+    margin-bottom: 5px;
+    color: #1a7dbe; 
+    text-decoration: none;
+}
+
+.link:hover {
+    text-decoration: underline;
+    color: #28a745; 
+}
+
+.github-icon img {
+    width: 1.5em;
+    height: 1.5em;
+    vertical-align:text-bottom ;
+    margin-left: 8px;
+}
