@@ -20,6 +20,7 @@ Each project folder contains essential files:
 
 3. **Data Set: Finally**, the containing folder will include the datasets used during the project, which can be visualized if desired. They will be available in both .xlxs and .csv formats.
 
+There is also a file called Projects_index.md, which contains a direct link to a web page index with all the projects, should you prefer browsing that way.
 
 ## Contributions 💡
 
@@ -50,6 +51,8 @@ Cada carpeta de proyecto contiene archivos esenciales:
 2. **Enlace de Visualización**: Además, encontrarás un archivo llamado Visuaalization.NombreDelProyecto.md. Este archivo contiene un enlace directo al que simplemente puedes hacer clic para acceder instantáneamente a la visualización del proyecto.
 
 3. **Data Set**: Para culminar, la carpeta contenedora contara con los datasets utilizados durante el proyecto para que puedan ser visualizados si así se desea. Estaran tanto en formato .xlxs como en formato .csv
+
+También hay un archivo llamado Proyects_index.md, que contiene un enlace directo a un índice de página web con todos los proyectos, en caso de que prefieras navegar de esa manera.
 
 ## Contribuciones 💡
 
