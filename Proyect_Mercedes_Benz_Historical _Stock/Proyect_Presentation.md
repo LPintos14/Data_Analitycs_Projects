@@ -2,7 +2,7 @@
 ---
 Este proyecto de visualización explora la evolución del precio y el rendimiento de las acciones de Mercedes-Benz durante los últimos cuatro años (2020-2024). A través de una serie de gráficos cuidadosamente elaborados, se brinda una perspectiva detallada sobre la competitividad de la empresa y la sólida trayectoria de crecimiento de su valorización.
 
-## Hallazgos clave:
+## Hallazgos clave 🔑 :
 
 #### Tendencia ascendente del precio de las acciones 📈: 
   Se observa una tendencia general al alza en el precio de las acciones de Mercedes-Benz durante el período          analizado, lo que refleja la confianza de los inversores en la fortaleza financiera y las perspectivas de          crecimiento de la empresa.
@@ -24,7 +24,7 @@ Esperamos que este proyecto de visualización sea de gran utilidad para comprend
 
 This visualization project explores the evolution of Mercedes-Benz stock price and performance over the past four years (2020-2024). Through a series of carefully crafted charts, a detailed perspective is provided on the company's competitiveness and the strong growth trajectory of its valuation.
 
-## Key Findings:
+## Key Findings 🔑 :
 
 #### Uptrend in Stock Price 📈:
 
@@ -38,7 +38,7 @@ Despite the overall upward trend, some short-term volatility in stock price is o
 
 Despite the short-term volatility, Mercedes-Benz's long-term stock performance has been solid, indicating a positive outlook for the company's future.
 
-## ⚙️ Methodology ⚙️:
+## ⚙️ Methodology ⚙️ :
 
 * Historical Mercedes-Benz stock price data was collected from reliable sources.
 * The data was processed and analyzed using data visualization tools and techniques.
