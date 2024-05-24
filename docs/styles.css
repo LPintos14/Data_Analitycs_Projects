@@ -36,10 +36,11 @@ main {
 }
 
 .project-list {
-    display: grid;
-    grid-template-columns: 1fr;
-    grid-gap: 20px;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  grid-gap: 20px;
 }
+
 
 .project {
     background-color: #fff;
@@ -47,6 +48,7 @@ main {
     padding: 20px;
     border-radius: 8px;
     box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    display: block;
 }
 
 .project h2 {
