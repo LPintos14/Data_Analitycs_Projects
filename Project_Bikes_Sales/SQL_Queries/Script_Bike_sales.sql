@@ -57,7 +57,7 @@ begin
 end //
 delimiter ;
 
-call Gender_perCountry("Argentina") 
+call Gender_perCountry("Germany") 
 
 #PA Total Products by Age Group
 
